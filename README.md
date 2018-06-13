@@ -22,7 +22,7 @@ Using this [repo](https://github.com/turingschool-examples/morse_translator), bu
 3. Push your solution to your fork
 4. Use Github's interface to create a pull request
 
-### Iteration 0
+### Iteration 1
 Translate English to Morse Code    
 * lowercase letters
 
@@ -33,7 +33,7 @@ Translate English to Morse Code
   => "......-...-..--- .-----.-..-..-.."
 ```
 
-### Iteration 1  
+### Iteration 2
 Translate English to Morse Code  
 * case insensitive, with numbers  
 
@@ -46,7 +46,7 @@ Translate English to Morse Code
   => "-......-.. .-.-.. ...-- ..........--...."
 ```
 
-### Iteration 2  
+### Iteration 3 
 Translate English to Morse Code  
 * from a file  
 
@@ -62,7 +62,7 @@ I am in a file
   => ".. .--- ..-. .- ..-....-..."
 ```
 
-### Iteration 3
+### Iteration 4
 Translate Morse Code to English  
 
 ```ruby
