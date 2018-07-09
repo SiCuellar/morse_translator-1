@@ -45,14 +45,16 @@ class Translator
 
 
   def eng_to_morse(english)
-    input_letter = english.chars
+    input_letter = english.downcase.chars
     morse_c = input_letter.map do |char|
       @dictionary[char]
+
     end
     morse_c.join
+    
   end
 
-  
+
 
 
 
